@@ -20,4 +20,4 @@ Ouvrez-le dans votre éditeur de code
 Configurez la connexion à votre SGBD dans le fichier hibernate.cfg.xml
 Exportez le projet en tant qu'archive WAR
 Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
-Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:8060/Pharmaciee
+Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:8060/test
