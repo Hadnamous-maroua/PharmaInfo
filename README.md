@@ -21,3 +21,8 @@ Configurez la connexion à votre SGBD dans le fichier hibernate.cfg.xml
 Exportez le projet en tant qu'archive WAR
 Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:8060/test
+# Auteur
+Ce projet a été réalisé par :
+BELHAJ Soukaina
+HADNAMOUS Maroua 
+GUIDALI Widad
